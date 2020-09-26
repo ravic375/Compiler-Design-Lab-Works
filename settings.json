@@ -1,7 +1,0 @@
-{
-    "C_Cpp.errorSquiggles": "Disabled",
-    "search.showLineNumbers": true,
-    "files.associations": {
-        "ostream": "cpp"
-    }
-}
